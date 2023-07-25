@@ -1,0 +1,20 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "this is a full functioning react app",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdev408/Project-Shop.git"
+  },
+  "author": "Yagya Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdev408/Project-Shop/issues"
+  },
+  "homepage": "https://github.com/webdev408/Project-Shop#readme"
+}
